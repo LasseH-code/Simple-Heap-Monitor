@@ -2,7 +2,7 @@
 #include <memory>
 #include <iostream>
 
-// Mostly the exact code Cherno showed on YT
+// Mostly the exact code Cherno has shown on YT
 
 #ifndef MEMORY_H
 #define MEMORY_H
