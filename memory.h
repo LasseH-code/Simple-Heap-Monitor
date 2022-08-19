@@ -2,6 +2,8 @@
 #include <memory>
 #include <iostream>
 
+// Mostly the exact code Cherno showed on YT
+
 #ifndef MEMORY_H
 #define MEMORY_H
 
